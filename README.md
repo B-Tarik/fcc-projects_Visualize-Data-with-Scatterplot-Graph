@@ -1,7 +1,7 @@
-# Visualize Data with a Bar Chart
+# Visualize Data with a Scatterplot Graph
 ### About the project
 
-it's a freecodecamp project in the "Data Visualization Projects" module, you have to Visualize Data with a Bar Chart.
+it's a freecodecamp project in the "Data Visualization Projects" module, you have to Visualize Data with a Scatterplot Graph.
 
 ### Tools used
 
